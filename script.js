@@ -19,7 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 var aFNames = new Array(
-    "Bina", "Bit", "Byte", "Com", "Comm", "Comms", "Compu", "Data", "Deci", "Decima", "Hard", "Hexa", "Info", "Inter", "Kilo", "Logi", "Macro", "Mega", "Micro", "Net", "PC", "Soft", "Tech", "Techni", "Web"
+    "Bina", "Bit", "Byte", "Com", "Comm", "Comms", "Compu", "Data", "Deci", "Decima", "Hard", "Hexa", "Info", "Inter", "Kilo", "Logi", "Macro", "Mega", "Micro", "Net", "PC", "Pro", "Soft", "Tech", "Techni", "Web"
 );
     var aLNames = new Array(
     "bit", "bits", "byte", "bytes", "com", "comms", "data", "gistics", "grams", "grammes", "hard", "house", "info", "logic", "media", "micros", "net", "puters", "soft", "tech", "ware", "wares", "web", "world"
